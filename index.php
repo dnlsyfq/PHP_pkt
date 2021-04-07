@@ -14,7 +14,10 @@
         <?php
 
         // your php code goes here
-
+        echo 'Hello World';
+        
+        $name = 'Hoba';
+        echo $name;
         ?>
     </p>
 </div>
